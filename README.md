@@ -1,24 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Hruthik%20Reddy%20Allam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20%E2%80%94%20Building%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=230&section=header&text=Hruthik%20Reddy%20Allam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20-%20Building%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=750&colors=00F5FF,FF61D8,FFD93D,6BCB77&lines=Building+multi-agent+systems+that+reason%2C+not+just+respond;LangGraph+%2B+RAG+%2B+MCP+%2B+Production+Backends;SIH+Winner+%7C+National+Hackathon+Winner;Currently%3A+AI+Forward+Deployment+Engineer+%40+Personaas+AI" alt="Typing SVG" />
+# ⚡ Hi, I'm Hruthik Reddy Allam
+### 🤖 Agentic AI Engineer — Building Autonomous Systems That Reason, Not Just Respond
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF61D8&center=true&vCenter=true&width=750&lines=Building+multi-agent+systems+that+reason%2C+not+just+respond;LangGraph+%2B+RAG+%2B+MCP+%2B+Production+Backends;SIH+Winner+%7C+National+Hackathon+Winner;Currently%3A+AI+Forward+Deployment+Engineer+%40+Personaas+AI" alt="Typing SVG" />
 
 </div>
 
 ```ansi
 [92mhruthik[0m@[94mgithub[0m:[96m~[0m$ whoami
-[93m> AI Forward Deployment Engineer @ Personaas AI, Hyderabad[0m
+[96m> AI Forward Deployment Engineer @ Personaas AI, Hyderabad[0m
 [93m> Designs autonomous agent workflows for enterprise clients[0m
-[93m> Automates business workflows end-to-end, cutting down manual effort[0m
+[92m> Automates business workflows end-to-end, cutting down manual effort[0m
 
 [92mhruthik[0m@[94mgithub[0m:[96m~[0m$ cat achievements.log
 [95m> 🏆 Winner — Smart India Hackathon (national-level innovation competition)[0m
-[95m> 🏆 National Hackathon Winner — Unnathi, Vivitsu (GRIET), HackAttack (Shreyas), Hackfiniti (BVRITH)[0m
-[95m> ♞ LeetCode Knight Badge holder[0m
+[91m> 🏆 National Hackathon Winner — Unnathi, Vivitsu (GRIET), HackAttack (Shreyas), Hackfiniti (BVRITH)[0m
+[94m> ♞ LeetCode Knight Badge holder[0m
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
 
 ### 💼 Currently Building
 
@@ -27,7 +30,7 @@
 - Architecting autonomous workflows for context-aware decision-making, tool execution, and backend integration
 - Translating customer requirements into production-ready agentic AI systems with seamless enterprise adoption
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
 
 ### 📂 Featured Projects
 
@@ -57,7 +60,7 @@
 🔗 [Repo](https://github.com/your-username/smart-attendance)
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
 
 ### 🛠️ Stack
 
@@ -109,7 +112,7 @@
 <img src="https://img.shields.io/badge/C-D50000?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
 
 ### 📊 Stats
 
@@ -122,7 +125,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
 
 ### 🎓 Education
 
@@ -131,10 +134,13 @@
 
 <div align="center">
 
-📫 **hruthikreddyallam@gmail.com** · [LinkedIn](https://linkedin.com/in/your-linkedin) · [GitHub](https://github.com/your-username)
+### 📬 Let's Connect
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=8A2BE2" alt="profile views"/>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hruthikreddyallam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hruthikreddyallam/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,25:00C2A8,50:00F5FF,75:8A2BE2,100:FF61D8&height=120&section=footer" width="100%"/>
 
 </div>
