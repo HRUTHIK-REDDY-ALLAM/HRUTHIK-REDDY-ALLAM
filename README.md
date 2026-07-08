@@ -9,23 +9,38 @@
 
 </div>
 
-```bash
-hruthik@github:~$ whoami
-> AI Forward Deployment Engineer @ Personaas AI, Hyderabad
-> Designs autonomous agent workflows for enterprise clients
-> Automates business workflows end-to-end, cutting down manual effort
+<table>
+<tr>
+<td valign="top">
 
-hruthik@github:~$ cat achievements.log
-> 🏆 Winner — Smart India Hackathon (national-level innovation competition)
-> 🏆 National Hackathon Winner — Unnathi, Vivitsu (GRIET), HackAttack (Shreyas), Hackfiniti (BVRITH)
-> ♞ LeetCode Knight Badge holder
-```
+### 🚀 Currently
+
+<table>
+<tr><td>🤖</td><td><b>AI Forward Deployment Engineer</b> @ Personaas AI, Hyderabad</td></tr>
+<tr><td>🧩</td><td>Designs autonomous agent workflows for enterprise clients</td></tr>
+<tr><td>⚡</td><td>Automates business workflows end-to-end, cutting down manual effort</td></tr>
+</table>
+
+</td>
+<td valign="top">
+
+### 🏆 Achievements
+
+<table>
+<tr><td>🥇</td><td><b>Smart India Hackathon</b> Winner — national-level innovation competition</td></tr>
+<tr><td>🏅</td><td><b>National Hackathon</b> Winner — Unnathi · Vivitsu (GRIET) · HackAttack (Shreyas) · Hackfiniti (BVRITH)</td></tr>
+<tr><td>♞</td><td><b>LeetCode Knight</b> Badge holder</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
 
 ### 💼 Currently Building
 
-**AI Forward Deployment Engineer** @ [Personaas AI](https://github.com/your-username)
+**AI Forward Deployment Engineer** @ [Personaas AI](https://github.com/HRUTHIK-REDDY-ALLAM)
 - Engineering AI agent solutions for enterprise clients, automating business workflows end-to-end
 - Architecting autonomous workflows for context-aware decision-making, tool execution, and backend integration
 - Translating customer requirements into production-ready agentic AI systems with seamless enterprise adoption
@@ -44,7 +59,7 @@ hruthik@github:~$ cat achievements.log
 
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-8A2BE2?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-00C2A8?style=flat-square) ![Evidence Graphs](https://img.shields.io/badge/Evidence%20Graphs-FF6D00?style=flat-square) ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-FF3D81?style=flat-square)
 
-🔗 [Repo](https://github.com/your-username/detective-ai)
+🔗 [Repo](https://github.com/HRUTHIK-REDDY-ALLAM/detective-ai)
 </details>
 
 <details>
@@ -57,7 +72,7 @@ hruthik@github:~$ cat achievements.log
 
 ![OCR](https://img.shields.io/badge/OCR-8A2BE2?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-00C2A8?style=flat-square) ![Production Deployment](https://img.shields.io/badge/Production%20Deployment-FF6D00?style=flat-square)
 
-🔗 [Repo](https://github.com/your-username/smart-attendance)
+🔗 [Repo](https://github.com/HRUTHIK-REDDY-ALLAM/smart-attendance)
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
@@ -118,8 +133,8 @@ hruthik@github:~$ cat achievements.log
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HRUTHIK-REDDY-ALLAM&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HRUTHIK-REDDY-ALLAM&theme=synthwave&hide_border=true" height="165"/>
 
 <img src="https://leetcard.jacoblin.cool/hruthikreddyallam?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
 
@@ -137,8 +152,8 @@ hruthik@github:~$ cat achievements.log
 ### 📬 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hruthikreddyallam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allam-hruthik-reddy-28a06928b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HRUTHIK-REDDY-ALLAM)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hruthikreddyallam/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2A8&height=120&section=footer" width="100%"/>
