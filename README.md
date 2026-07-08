@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=230&section=header&text=Hruthik%20Reddy%20Allam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20-%20Building%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2A8&height=230&section=header&text=Hruthik%20Reddy%20Allam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20-%20Building%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 # ⚡ Hi, I'm Hruthik Reddy Allam
 ### 🤖 Agentic AI Engineer — Building Autonomous Systems That Reason, Not Just Respond
@@ -9,16 +9,16 @@
 
 </div>
 
-```ansi
-[92mhruthik[0m@[94mgithub[0m:[96m~[0m$ whoami
-[96m> AI Forward Deployment Engineer @ Personaas AI, Hyderabad[0m
-[93m> Designs autonomous agent workflows for enterprise clients[0m
-[92m> Automates business workflows end-to-end, cutting down manual effort[0m
+```bash
+hruthik@github:~$ whoami
+> AI Forward Deployment Engineer @ Personaas AI, Hyderabad
+> Designs autonomous agent workflows for enterprise clients
+> Automates business workflows end-to-end, cutting down manual effort
 
-[92mhruthik[0m@[94mgithub[0m:[96m~[0m$ cat achievements.log
-[95m> 🏆 Winner — Smart India Hackathon (national-level innovation competition)[0m
-[91m> 🏆 National Hackathon Winner — Unnathi, Vivitsu (GRIET), HackAttack (Shreyas), Hackfiniti (BVRITH)[0m
-[94m> ♞ LeetCode Knight Badge holder[0m
+hruthik@github:~$ cat achievements.log
+> 🏆 Winner — Smart India Hackathon (national-level innovation competition)
+> 🏆 National Hackathon Winner — Unnathi, Vivitsu (GRIET), HackAttack (Shreyas), Hackfiniti (BVRITH)
+> ♞ LeetCode Knight Badge holder
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:8A2BE2,50:00F5FF,75:00C2A8,100:FFD93D&height=5" width="100%"/>
@@ -141,6 +141,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hruthikreddyallam/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,25:00C2A8,50:00F5FF,75:8A2BE2,100:FF61D8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2A8&height=120&section=footer" width="100%"/>
 
 </div>
